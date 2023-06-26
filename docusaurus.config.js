@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Sviosdi", // Usually your GitHub org/user name.
-  projectName: "DataTable", // Usually your repo name.
+  organizationName: "sviosdi", // Usually your GitHub org/user name.
+  projectName: "HRnet-doc", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -78,7 +78,7 @@ const config = {
           },
           /*{to: '/blog', label: 'Blog', position: 'left'},*/
           {
-            href: "https://github.com/sviosdi/HRnet-doc",
+            href: "https://github.com/sviosdi/HRnet-doc/",
             label: "GitHub",
             position: "right",
           },
