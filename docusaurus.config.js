@@ -78,7 +78,7 @@ const config = {
           },
           /*{to: '/blog', label: 'Blog', position: 'left'},*/
           {
-            href: "https://github.com/sviosdi/HRnet-doc/",
+            href: "https://github.com/sviosdi/HRnet-dev/",
             label: "GitHub",
             position: "right",
           },
