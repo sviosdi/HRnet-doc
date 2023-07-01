@@ -55,3 +55,5 @@ L'affichage a besoin de connaître les données `currentData` qui sont les entr�
 Le state `searching` est une valeur _boolean_ qui indique si le champ de recherche est actif. (Une recherche est en cours, le champ de recherche n'est pas vide).
 
 ## Gestion du state dans `useEffect()`
+
+Consulter les commentaires du code dans [Datatable.jsx](https://github.com/sviosdi/HRnet-dev/blob/main/src/lib/Datatable/Datatable.jsx)
