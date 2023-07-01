@@ -16,8 +16,8 @@ Pour rappel, les trois propriétés du composant Datatable sont :
 
 Voir la description de la propriété `model` représentant le modèle de la table dans la partie [Utilisation](./utilisation) :
 
-```html
-<DataTable model="{dataModel}" data="{[]}" />
+```js
+<DataTable model={model} data={[]} />
 ```
 
 Le champ `headers` du modèle sert à la fois à définir les entêtes de chaque colonne de la table et le type d'_inputs_ à utiliser dans
